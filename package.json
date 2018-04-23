@@ -1,0 +1,17 @@
+{
+  "name": "nodejstestingstrategies",
+  "version": "1.0.0",
+  "description": "Typing along with the pluralsight course",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "moment": "^2.22.1"
+  }
+}
