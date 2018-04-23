@@ -8,3 +8,4 @@ Learners:
 - have the package describe its own validators to seperate concerns
 - use the common node assert()
 - positive tests, negative tests, better descriptors
+- redundant testing in happy trail vs sad path
