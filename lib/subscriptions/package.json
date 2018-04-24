@@ -11,5 +11,8 @@
   "dependencies": {
     "moment": "^2.22.1",
     "underscore": "^1.9.0"
+  },
+  "devDependencies": {
+    "sinon": "^4.5.0"
   }
 }
