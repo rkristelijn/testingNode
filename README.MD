@@ -11,3 +11,7 @@ Learners:
 - redundant testing in happy trail vs sad path
 - ask myself why I copy each property in the object itself, describing it over and over again, is this really necessary with underscore
 - spell check on source code
+- event chain EventEmitter, E
+- TDD (Test-driven development (TDD)), BDD (Behavior-driven development)
+- Data Access ORM (Object Related Mapping), Sequelize, waterline, bookshelf, massive-js
+- sinon.spy sinon.stub, helpers
